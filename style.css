@@ -64,32 +64,33 @@ body {
   width: 438px;
   height: 561px;
 }
-.left-side-area {
-  width: 300px;
+.right-side-area {
+  width: 400px;
   margin-top: 200px;
   margin-left: 50px;
 }
-.left-side-area h1 {
+.right-side-area h1 {
   color: #151414;
   margin-bottom: 50px;
 }
-.left-side-area p {
+.right-side-area p {
   color: #595858;
   margin-bottom: 30px;
 }
-.left-side-area ul {
-  margin-left: 10px;
+.right-side-area ul {
+  margin-left: 5px;
   list-style: none;
   margin-bottom: 50px;
 }
-.left-side-area ul li {
+.right-side-area ul li {
   margin-bottom: 10px;
   color: #595858;
 }
-.left-side-area ul li:before {
+/* .right-side-area ul li:before {
   content: "✓";
   color: aqua;
-}
+  margin-right: 5px;
+} */
 /* main-section */
 /* extra-section */
 .extra-section {
