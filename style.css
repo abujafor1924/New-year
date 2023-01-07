@@ -42,10 +42,10 @@ body {
   float: right;
   margin-top: 20px;
 }
-.header-area button:hover {
+/* .header-area button:hover {
   background-color: #0a0a0a;
   color: #ffffff;
-}
+} */
 
 /* Header Section */
 /* main-section */
@@ -270,8 +270,8 @@ body {
   border: 0;
   border-radius: 5px;
 }
-.footer-right button:hover {
+/* .footer-right button:hover {
   background-color: orangered;
   color: #0a0a0a;
-}
+} */
 /* footer-section */
