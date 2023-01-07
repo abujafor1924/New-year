@@ -1,7 +1,8 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Work Sans", sans-serif;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
 }
 
 body {
@@ -28,7 +29,8 @@ body {
 .header-area h1 {
   color: #ffffff;
   text-align: right;
-  margin-right: 0;
+  margin-left: 100px;
+  width: 300px;
 }
 .header-area p {
   color: #ffffff;
@@ -72,6 +74,7 @@ body {
 .right-side-area h1 {
   color: #151414;
   margin-bottom: 50px;
+  width: 300px;
 }
 .right-side-area p {
   color: #595858;
@@ -200,7 +203,7 @@ body {
 }
 .posetive-had {
   margin-left: 30px;
-  width: 400px;
+  width: 300px;
   margin-top: 57px;
   color: #ffffff;
 }
